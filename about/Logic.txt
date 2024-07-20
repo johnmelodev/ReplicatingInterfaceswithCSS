@@ -1,0 +1,10 @@
+- Imaginar que o Layout são caixinhas para se dividir em nosso html.
+
+Nav Bar
+retangulo com 5 caixinhas
+
+Header
+Retangulo Texto emojis
+
+- Construa o HTML ja pensando no que sera feito no CSS
+

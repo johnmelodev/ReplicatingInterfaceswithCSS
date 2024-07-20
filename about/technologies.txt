@@ -1,0 +1,11 @@
+React
+Vite
+Sass
+
+cd YourFolderPath
+npx create-vite . --template react-ts
+npm install sass
+npm run dev
+
+Add fonts via google fonts
+
